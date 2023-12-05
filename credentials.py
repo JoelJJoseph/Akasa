@@ -1,1 +1,1 @@
-uri = "mongodb://localhost:27017/blog"
+uri = "mongodb+srv://admin:12345@blog.rizfro7.mongodb.net/blog"
