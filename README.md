@@ -1,7 +1,7 @@
 # Akasa
 
 
-#### Website link - https://joeljjoseph.github.io/Brainwave_Dyslexify/index.html
+#### Website link - [https://akasa.onrender.com/]
 #### Username to Login - joeljj
 #### Password to Login - 12345678
 
