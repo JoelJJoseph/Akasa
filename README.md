@@ -75,7 +75,7 @@ Save the changes.<br>
 
 Open the terminal or command prompt.
 Navigate to the project directory using the cd command.
-Execute the following command to install the required dependencies:
+Execute the following command to install the required dependencies:<br>
 <code> pip install -r requirements.txt</code><br>
 
 Wait for the installation process to complete.
@@ -84,11 +84,13 @@ Wait for the installation process to complete.
 ✅**Run the Application:**
 
 In the terminal or command prompt, ensure you are still in the project directory.
-Run the following command to start the Flask application:
+Run the following command to start the Flask application:<br>
 
-<code>python app.py</code>
+<code>python app.py</code><br>
 The application will start, and you should see output indicating that the development server is running.
-Open a web browser and navigate to http://127.0.0.1:5000/ to access the blog post-based website.<br>
+Open a web browser and navigate to 
+<br>http://127.0.0.1:5000/ <br>
+to access the blog post-based website.<br>
 
 
 ✅**Explore and Interact:**
