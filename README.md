@@ -62,7 +62,6 @@ It allows professionals to showcase their expertise, build an online presence, a
   This Section must contain set of instructions required to clone and run the prototype, so that it can be tested and deeply analysed
 
 
-## Augmented-Reality Smart Card <img src="https://github.com/JoelJJoseph/openAPI_project/assets/72274851/7a48517e-58ea-480e-8f8c-dc2d916070e3" height="80" width="80"> <br>
 
 ✅**Change MongoDB Link:**
 
